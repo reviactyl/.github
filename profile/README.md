@@ -4,4 +4,4 @@
 Reviactyl is a free, open-source panel built with ❤️ for developers, hobbyists, and server owners. We put in countless hours designing, building, and improving it. Making sure it’s powerful, easy to use, and constantly evolving.
 
 ---
-We'll Keep Reviactyl opensource forever! If you like our work, consider [sponsoring](https://github.com/sponsors/bijju089) us on github. 
+We'll Keep Reviactyl opensource forever! If you like our work, consider [sponsoring](https://github.com/sponsors/reviactyl) us on github. 
